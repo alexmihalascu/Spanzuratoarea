@@ -19,8 +19,8 @@
 Asigură-te că ai Java instalat pe sistemul tău.
 1. Clonează acest repository.
 2. Deschide terminalul și navighează către directorul proiectului.
-3. Rulează `Principal.Java`
-4. Introdu datele de logare: user: tesla și parola: modelx
+3. Rulează din folderul `src/` `Principal.Java`
+5. Introdu datele de logare: user: tesla și parola: modelx
 
 ## Contribuții
 Contribuțiile la acest proiect sunt binevenite! Dacă ai sugestii de îmbunătățire sau vrei să adaugi noi funcționalități, te rog să deschizi un issue sau să trimiti un pull request.
